@@ -23,7 +23,7 @@ For detailed instructions consult the [Moovweb XDN Nuxt.js documentation](https:
   <code-block label="Yarn" active>
 
 ```bash
-yarn add -g @xdn/cli
+yarn gloabl add @xdn/cli
 ```
 
   </code-block>
